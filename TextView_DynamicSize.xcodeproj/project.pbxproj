@@ -12,6 +12,7 @@
 		6CE20A4F2419ED3700A1820B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CE20A4D2419ED3700A1820B /* Main.storyboard */; };
 		6CE20A512419ED3D00A1820B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CE20A502419ED3D00A1820B /* Assets.xcassets */; };
 		6CE20A542419ED3D00A1820B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CE20A522419ED3D00A1820B /* LaunchScreen.storyboard */; };
+		6CE20A69241E578400A1820B /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CE20A68241E578400A1820B /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6CE20A502419ED3D00A1820B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6CE20A532419ED3D00A1820B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6CE20A552419ED3D00A1820B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6CE20A68241E578400A1820B /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				6CE20A492419ED3700A1820B /* AppDelegate.swift */,
 				6CE20A4B2419ED3700A1820B /* ViewController.swift */,
+				6CE20A68241E578400A1820B /* ViewController2.swift */,
 				6CE20A4D2419ED3700A1820B /* Main.storyboard */,
 				6CE20A502419ED3D00A1820B /* Assets.xcassets */,
 				6CE20A522419ED3D00A1820B /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				6CE20A4C2419ED3700A1820B /* ViewController.swift in Sources */,
 				6CE20A4A2419ED3700A1820B /* AppDelegate.swift in Sources */,
+				6CE20A69241E578400A1820B /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
